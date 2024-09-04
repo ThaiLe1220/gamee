@@ -1,0 +1,18 @@
+https://docs.google.com/document/d/15CFLt5vAevDbUDhsztHQcVdBIK9dYTmb1-kWNvic3VA/edit?usp=sharing
+
+Interact in a map (rectangle), with rooms, pathway, hidden room, obstacles, ([optional] random event that alters the map)
+
+Game Time constraint [8-10 minutes], ([optional] daylight, noon, nightime), weathers, ….
+
+Multiplayers, players stat (speed, size, ([optional] health, attack damage, attack range, weapon (attack style), tasks, …. )), numbers of players [2-6], play style (co op or pvp or both) 
+
+Players' casual goal system, progress (survival ?) (rewarding/ risk system ?) 
+
+Players trading system ? (money/ products) 
+
+Game rules (win/ loss), Game Replay Capabilities, game communications (chat, ingame interactions …)
+
+Audiences: Mainly young people and children (7+)
+
+Game settings ([optional] scifi-futuristic-spacetime, casual-dailylife-funny, serious-heist-good/evil, strategy-adventurous-chaotic, ….)
+
